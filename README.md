@@ -1,2 +1,3 @@
-# outreachy
-Manage the R Project participation in Outreachy
+# Outreachy
+
+A repository to define tasks related to Outreachy projects.
